@@ -15,7 +15,10 @@ pipenv shell
 pipenv install --verbose
 ```
 
-## Usage
+## Launch
 ```sh
 pipenv shell && python3 main.py
 ```
+
+## Usage
+Any ACM A. M. Turing Award laureate would realise how to use the provided software, hence the Usage section is not essential.
