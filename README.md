@@ -1,5 +1,5 @@
 # markov
-Reduced markov algorithms interpeter and a Telegram bot to execute and manage these via. Many unique self written reduced markov algorithms included. Interpreter and a Telegram bot are written in Python.
+Markov algorithms interpeter and a Telegram bot to execute and manage these via. Many unique self written markov algorithms included. Interpreter and a Telegram bot are written in Python.
 
 The project is abandoned for more than 2 years and there is just a little intentions of resuming work on it.
 
