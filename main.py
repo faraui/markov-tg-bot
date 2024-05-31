@@ -1,5 +1,5 @@
 import config
-import interpp
+import interp
 import telebot
 import time
 import os, shutil
