@@ -8,7 +8,7 @@ The project is abandoned for more than 2 years and there is just a little intent
 - Pipenv ([installation guide](https://docs.pipenv.org/install/#installing-pipenv))
 
 ## Installation
-```sh
+```bash
 git clone https://github.com/faraui/markov
 cd markov
 pipenv shell
@@ -16,7 +16,7 @@ pipenv install --verbose
 ```
 
 ## Launch
-```sh
+```bash
 pipenv shell && python3 main.py
 ```
 
