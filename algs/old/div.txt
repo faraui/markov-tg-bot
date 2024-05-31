@@ -1,0 +1,13 @@
+DB : D
+DA : D
+DC : D
+D0 : D
+D* : D
+D ; #
+UC : 0U
+C0 : 0C
+A0 : BAC
+*0 : *A0
+0*B : *
+*A : *U
+# : D

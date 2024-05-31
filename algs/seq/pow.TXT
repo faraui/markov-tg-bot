@@ -1,0 +1,9 @@
+new/suf.txt
+new/decdek.txt
+new/dekuno.txt
+new/pow.txt
+new/pre.txt
+new/mul.txt
+new/unodek.txt
+new/suf.txt
+new/dekdec.txt

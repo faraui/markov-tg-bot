@@ -1,0 +1,4 @@
+trash/to-uno.alt
+trash/divold.alt
+trash/lenlen.alt
+trash/to-dek.alt

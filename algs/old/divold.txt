@@ -1,0 +1,13 @@
+0V : V0
+V*A : VVC
+CU : C
+C0 : C
+C ; #
+V*0 : VC
+U00 : U0U0
+U0 : 0U
+0U : 0ABU
+BU : 0B
+B : #
+0*0 : *
+*A : V*U

@@ -1,0 +1,7 @@
+gen/to-uno.alt
+uno/pow.alt
+aux/_U_.alt
+aux/U-.alt
+uno/mul.alt
+gen/len.alt
+gen/to-dek.alt

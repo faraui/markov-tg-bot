@@ -1,0 +1,12 @@
+BC : C
+0C : C
+AC : C
+C ; #
+A0 : 0BA
+B0 : 0B
+BA : AB
+B*0 : *
+A*0 : *0U
+U0 : 0U
+*U : CU
+A : #
