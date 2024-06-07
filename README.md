@@ -1,5 +1,5 @@
 # markov
-Markov algorithms interpeter and a Telegram bot to execute and manage these via. Many unique self written markov algorithms included. Interpreter and a Telegram bot are written in Python.
+Markov algorithms interpreter and a Telegram bot to execute and manage these via. Many unique self written markov algorithms included. Interpreter and a Telegram bot are written in Python.
 
 This repository in no longer maintaned. Consider reffering to [Bourne shell script version](https://github.com/faraui/markov) instead.
 
